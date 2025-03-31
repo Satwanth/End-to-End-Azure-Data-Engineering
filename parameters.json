@@ -1,0 +1,52 @@
+[
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Categories.csv",
+        "par_sink_fol" : "Categories",
+        "par_sink_file" : "Categories.csv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Calendar.csv",
+        "par_sink_fol" : "Calendar",
+        "par_sink_file" : "Calendar.csv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Customers.csv",
+        "par_sink_fol" : "Customers",
+        "par_sink_file" : "Customers.csv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "par_sink_fol" : "Subcategories",
+        "par_sink_file" : "Subcategories.csv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Products.csv",
+        "par_sink_fol" : "Products",
+        "par_sink_file" : "Products.csv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Returns.csv",
+        "par_sink_fol" : "Returns",
+        "par_sink_file":"Returns.csv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2015.csv",
+        "par_sink_fol" : "Sales_2015",
+        "par_sink_file" : "Sales_2015.csv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2016.csv",
+        "par_sink_fol" : "Sales_2016",
+        "par_sink_file" : "Sales_2016.cvsv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2017.csv",
+        "par_sink_fol" : "Sales_2017",
+        "par_sink_file" : "Sales_2017.csv"
+    },
+    {
+        "par_rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Territories.csv",
+        "par_sink_fol" : "Territories",
+        "par_sink_file" : "Territories.csv"
+    }
+]
