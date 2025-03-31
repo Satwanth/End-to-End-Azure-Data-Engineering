@@ -26,6 +26,8 @@ In this stage, data is extracted from the source and stored in the **Bronze Laye
 - Used **Copy Data Activity** along with **LookUp** and **ForEach activities**.
 - The pipeline dynamically fetches multiple datasets using a **JSON configuration file** (`parameters.json`), which stores parameters as key-value pairs.
 - These parameters are passed dynamically into **Copy Data Activity** to configure source and sink settings without rewriting code.
+- The pipeline structure can be seen in **pipeline.png**.
+- Debugged and validated the pipeline execution to ensure correctness and efficiency, then **successfully published** it.
 
 ## Silver Layer
 - Used **Service Principal Authentication** for **Databricks** to access **ADLS**.
